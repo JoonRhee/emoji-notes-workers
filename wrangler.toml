@@ -1,0 +1,12 @@
+name = "emojinotes"
+type = "javascript"
+
+account_id = "36ff86f486dd060039789a68b1a779e7"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-11-10"
+
+kv_namespaces = [ 
+  { binding = "LIST",preview_id="773c2e555d1d498e93896953fa646fa9", id = "773c2e555d1d498e93896953fa646fa9" }
+]
